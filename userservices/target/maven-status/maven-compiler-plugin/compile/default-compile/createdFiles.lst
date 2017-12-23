@@ -1,0 +1,5 @@
+com/valoyes/user/dto/User.class
+com/valoyes/user/dao/UserDaoImpl.class
+com/valoyes/user/dao/UserDao.class
+com/valoyes/user/bo/UserBOImpl.class
+com/valoyes/user/bo/UserBO.class
